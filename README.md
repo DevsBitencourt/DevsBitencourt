@@ -1,1 +1,2 @@
-[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = DevsBitencourt )] (https://github.com/DevsBitencourt/README)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsBitencourt)](https://github.com/anuraghazra/github-readme-stats)
+
