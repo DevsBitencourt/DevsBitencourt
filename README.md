@@ -1,8 +1,15 @@
-## Hello World, I'm Hellen!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
- 
-… Fullstack Developer 👩‍💻
- 
-Lover of Technology and Coding 💓
+## Olá, me chamo Vitor Bitencourt
+
+Atualmente sou programador de sistema focado em C Sharp e Delphi. 
+
+- Trabalho atualmente na UpSoftware - Sistemas para varejista focada em distribuidoras.
+- Estudante de ciência da computação na universidade paulista UNIP.
+
+Sinta-se a vontade de entrar em contato.
+
+<a href="https://www.linkedin.com/in/vitor-bitencourt-dev/">
+<code><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+</a>
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevsBitencourt)](https://github.com/DevsBitencourt)
@@ -12,18 +19,14 @@ Lover of Technology and Coding 💓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsBitencourt&layout=compact)](https://github.com/DevsBitencourt/github-readme-stats)
 
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-
-- Thanks for visiting. 
- 
-- Enjoy it!! 🤖
 
 
+
+- Obrigado peloi visita.
