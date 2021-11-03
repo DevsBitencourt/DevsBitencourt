@@ -13,6 +13,7 @@ Sinta-se a vontade de entrar em contato.
 
 ## Linguagens e FrameWorks:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsBitencourt&layout=compact)](https://github.com/DevsBitencourt/github-readme-stats)
+</br>
 [![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsBitencourt)](https://github.com/DevsBitencourt/github-readme-stats)
 
 
