@@ -1,6 +1,6 @@
 ## Olá, me chamo Vitor Bitencourt
 
-Atualmente sou programador de sistema focado em C Sharp e Delphi. 
+Atualmente sou programador de sistema focado em Dot .Net e Delphi. 
 
 - Trabalho atualmente na UpSoftware - Sistemas para varejista focada em distribuidoras.
 - Estudante de ciência da computação na universidade paulista UNIP.
