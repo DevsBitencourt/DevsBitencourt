@@ -11,12 +11,6 @@ Atualmente sou programador de sistema focado em Dot .Net e Delphi.
 <code><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
 </a>
 
-## Linguagens e FrameWorks:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsBitencourt&layout=compact)](https://github.com/DevsBitencourt/github-readme-stats)
-</br>
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsBitencourt)](https://github.com/DevsBitencourt/github-readme-stats)
-
-
 
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
